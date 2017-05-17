@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{1F1F4C8F-A1E4-4EF9-9829-3B9F26F170A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WarGame/Dusman.cs">
+    <Files>
+      <File FileName="WarGame/Program.cs" Line="12" Column="39" />
+      <File FileName="WarGame/DusmanTank.cs" Line="13" Column="39" />
+      <File FileName="WarGame/IDusman.cs" Line="6" Column="36" />
+      <File FileName="WarGame/DusmanRobotu.cs" Line="4" Column="44" />
+      <File FileName="WarGame/IDusmanPlus.cs" Line="6" Column="34" />
+      <File FileName="WarGame/DusmanAdapter.cs" Line="24" Column="44" />
+      <File FileName="WarGame/Dusman.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WarGame PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

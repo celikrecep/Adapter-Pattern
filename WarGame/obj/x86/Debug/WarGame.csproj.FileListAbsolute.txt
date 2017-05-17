@@ -1,0 +1,5 @@
+/Users/mehmet/Projects/WarGame/WarGame/bin/Debug/WarGame.exe
+/Users/mehmet/Projects/WarGame/WarGame/bin/Debug/WarGame.pdb
+/Users/mehmet/Projects/WarGame/WarGame/obj/x86/Debug/WarGame.csproj.CoreCompileInputs.cache
+/Users/mehmet/Projects/WarGame/WarGame/obj/x86/Debug/WarGame.exe
+/Users/mehmet/Projects/WarGame/WarGame/obj/x86/Debug/WarGame.pdb
