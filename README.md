@@ -4,4 +4,4 @@
 
 **Contributor**
 - [Onur Hüseyin ÇANTAY](https://github.com/onurhuseyincantay)
-- [Recep ÇELİK] (https://github.com/Rexulon)
+- [Recep ÇELİK](https://github.com/Rexulon)
